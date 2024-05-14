@@ -1,13 +1,12 @@
-// About.js
-import React from 'react';
+import React from 'react'
 
 const About = () => {
   return (
     <div>
         <h1>About</h1>
-     This is a simple React Router Program.
-    </div>
-  );
-};
+        <p>This is a sample React Router program.</p>
+        </div>
+  )
+}
 
-export default About;
+export default About
